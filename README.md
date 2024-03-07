@@ -1,6 +1,10 @@
 # Codeer.LowCode.Blazor (Alpha)
 
+## Features ...
 Codeer.LowCode.Blazor is a framework to transform your web app into a no/low-code application. Quickly create the majority of features with no/low-code, and craft specific features with pro-code as you would in a full-stack development. As a result, you can create satisfying apps within a short delivery time and at a low cost.
+
+## Getting Started
+You can create projects using Visual Studio extensions. However, it is still being prepared. Please wait a while. I have prepared a sample project instead. Please try using that.
 
 ## Recommended for Projects That
 
