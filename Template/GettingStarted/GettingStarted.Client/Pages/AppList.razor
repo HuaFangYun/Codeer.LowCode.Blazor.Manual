@@ -1,0 +1,20 @@
+@page "/{AppName}/{PageFrameName}/{ModuleDesignName}"
+@using Codeer.LowCode.Blazor.Components.AppParts.Page
+@using GettingStarted.Client
+@using GettingStarted.CustomComponents.Services
+@using Codeer.LowCode.Blazor.RequestInterfaces
+@inherits PageBase
+
+@if (IsValid)
+{
+  <AppListCore ModuleDesignName="@ModuleDesignName"
+               PageFrameName="@PageFrameName"
+               Guid="@(AppInfoService.AsImplement().Guid)"></AppListCore>
+}
+@code {
+  [Parameter]
+  public string? PageFrameName { get; set; }
+
+  [Parameter]
+  public string? ModuleDesignName { get; set; }
+}
