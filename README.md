@@ -9,8 +9,17 @@ Please follow the respective licenses for the Nuget packages you are referencing
 
 [Getting Started Templates](Template/GettingStarted)
 
+### Step1
+Build and launch the designer and web app.
 <img src="Image/step1.png">
+
+### Step2
+Create a new project in designer.
+A project containing the sample will be created.
 <img src="Image/step2.png">
+
+### Step3
+Deploy it to a web app. The screen will be hot reloaded and the screen will be displayed according to the designer settings.
 <img src="Image/step3.png">
 
 ## Recommended for Projects That
