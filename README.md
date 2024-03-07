@@ -7,6 +7,9 @@ Codeer.LowCode.Blazor is a framework to transform your web app into a no/low-cod
 You can create projects using Visual Studio extensions. However, it is still being prepared. Please wait a while. I have prepared a sample project instead. Please try using that.
 Please follow the respective licenses for the Nuget packages you are referencing.
 
+[Getting Started Templates](Template/GettingStarted)
+
+
 ## Recommended for Projects That
 
 - Want to save on cost and time
