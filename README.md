@@ -9,6 +9,9 @@ Please follow the respective licenses for the Nuget packages you are referencing
 
 [Getting Started Templates](Template/GettingStarted)
 
+<img src="Image/step1.png" width="800">
+<img src="Image/step2.png" width="800">
+<img src="Image/step3.png" width="800">
 
 ## Recommended for Projects That
 
