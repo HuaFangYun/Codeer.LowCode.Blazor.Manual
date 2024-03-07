@@ -22,6 +22,9 @@ A project containing the sample will be created.
 Deploy it to a web app. The screen will be hot reloaded and the screen will be displayed according to the designer settings.
 <img src="Image/step3.png">
 
+### Step4
+Get a feel for it by looking at the designer settings, making small changes, and sending it to the web app. Details will be added soon.
+
 ## Recommended for Projects That
 
 - Want to save on cost and time
