@@ -3,26 +3,34 @@
 ## Features ...
 Codeer.LowCode.Blazor is a framework to transform your web app into a no/low-code application. Quickly create the majority of features with no/low-code, and craft specific features with pro-code as you would in a full-stack development. As a result, you can create satisfying apps within a short delivery time and at a low cost.
 
-## Getting Started
-You can create projects using Visual Studio extensions. However, it is still being prepared. Please wait a while. I have prepared a sample project instead. Please try using that.
-Please follow the respective licenses for the Nuget packages you are referencing.
+## Codeer.LowCode.Blazor License Information
+For details on the use license of Codeer.LowCode.Blazor, please see [here](https://www.nuget.org/packages/Codeer.LowCode.Blazor/0.3.0/License).
 
-[Getting Started Templates](Template/GettingStarted)
+For those interested in community use, we plan to issue a free use license upon application.
+
+## Getting Started
+You can create projects using Visual Studio extensions.
+
+[Codeer.LowCode.Blazor.Templates](https://marketplace.visualstudio.com/items?itemName=Codeer.LowCodeBlazor)
 
 ### Step1
-Build and launch the designer and web app.
+Create Project.
 <img src="Image/step1.png">
 
 ### Step2
-Create a new project in designer.
-A project containing the sample will be created.
+Build and launch the designer and web app.
 <img src="Image/step2.png">
 
 ### Step3
-Deploy it to a web app. The screen will be hot reloaded and the screen will be displayed according to the designer settings.
-<img src="Image/step3.png" width="800">
+Create a new project in designer.
+A project containing the sample will be created.
+<img src="Image/step3.png">
 
 ### Step4
+Deploy it to a web app. The screen will be hot reloaded and the screen will be displayed according to the designer settings.
+<img src="Image/step4.png" width="800">
+
+### Step5
 Get a feel for it by looking at the designer settings, making small changes, and sending it to the web app. Details will be added soon.
 
 ## Recommended for Projects That
