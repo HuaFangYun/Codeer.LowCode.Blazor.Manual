@@ -49,7 +49,7 @@ Associate forms and DB tables for input and output of data. Linking multiple for
 
 ## More Freedom with Scripts
 
-Write in syntax nearly identical to C#. The API design allows for implementation of features with minimal coding. Code completion makes implementation easy, and customized functions can be called with pro-code. Execution is primarily on the client-side, but server-side execution is also supported.
+Write in syntax nearly identical to C#. The API design allows for implementation of features with minimal coding. Code completion makes implementation easy, and customized functions can be called with pro-code. Execution is primarily on the client-side, but server-side execution is also supported. Of course, it is also possible to incorporate additional APIs.
 
 - General computational operations
 - Screen controls
