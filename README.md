@@ -41,7 +41,7 @@ Get a feel for it by looking at the designer settings, making small changes, and
 
 ## Create Screens with Ease
 
-Create screens freely with a combination of grid layout and FlowLayout. It's possible to create not just regular screens but also dialogs. Interaction between UI components can be achieved with no-code or minimal scripting. Essential elements like sidebar, header, and footer are provided, and those with specific preferences can customize with pro-code.
+Freely create screens using a combination of Canvas layout, Grid layout, and FlowLayout. It's possible to create not just regular screens but also dialogs. Interaction between UI components can be achieved with no-code or minimal scripting. Essential elements like sidebar, header, and footer are provided, and those with specific preferences can customize with pro-code.
 
 ## Seamless RDB Integration
 
