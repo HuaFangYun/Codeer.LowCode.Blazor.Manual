@@ -15,9 +15,26 @@ ModuleはC#のclassに近い概念です。
 
 
 ## 全体設定
+| 項目            | 説明                                                                                           |
+|---------------|----------------------------------------------------------------------------------------------|
+| DisplayName   | T.B.D                                                                                        |
+| PageTitle     | htmlのタイトルに設定されます.                                                                            |
+| DataSource    | DBとテーブルを指定することによりEntityとして設定します.<br/>DataSourceは[designer.settings](designer_settings.md)に設定 |
+| ListPageField | T.B.D.                                                                                       |
+| Option        | `作成`, `更新`, `削除`, `一括ダウンロード`, `一括更新` の有無を設定                                                  |
+| Access        | - UserFilter<br/> - DataFilter   T.B.D                                                       |
+| Fields        | Module内で使用するFieldをToolBoxから定義します                                                             |
+| Scripts       | Scriptを定義します                                                                                 |
+
 
 ## 詳細
+グリッドでレイアウトを作成し，全体設定で作成したFieldをドラッグ&ドロップで配置します．
 
 ## 一覧
+- 列の数，段の数を指定し，表を作成します．
+- 一覧で表示するFieldをToolBoxからドラッグ&ドロップで配置します．
+
 
 ## 検索
+- 一覧画面で検索するフィールドを設定します
+- ToolBoxからFieldとLabelをドラッグ&ドロップで配置します．
