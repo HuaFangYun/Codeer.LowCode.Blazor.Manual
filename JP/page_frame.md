@@ -7,4 +7,16 @@
 
 ## Header, SideBar(Left, Right)
 
+- SideBar
+
+| フィールド      | 説明                                            |
+|------------|-----------------------------------------------|
+| Icon       | メニューのアイコンを設定                                  |
+| Title      | メニューのタイトルを設定<br/>`/` で区切ることでメニューを階層にできる       |
+| Layout     | TBD                                           |
+| Module     | [Module](module.md) を指定                       |
+| LayoutType | - List（一覧画面）<br/> - Detail（詳細画面）<br/>のいずれかを指定 |
+
+
+
 ## Other Pages
