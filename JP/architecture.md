@@ -12,6 +12,11 @@ Moduleには[Field](field.md)を配置します。
 PageFrameではヘッダ、サイドバー、画面に表示可能なModuleを指定します。
 画面はModuleでレイアウトしていきます。
 
+## [PageFrame](page_frame.md)
+アプリの外枠の部分です。
+またそのPageFrame内で表示可能なModuleを設定します。
+表示可能なModuleはHome, ヘッダ、サイドバー(Left, Right)に指定されたModuleその他表示可能で指定されたModuleです。
+
 ## [Module](module.md)はC#のclassに近い概念です。
 - [Field](field.md)を配置することによりデータとして振る舞うことができます。
 - DBとマッピングすることによりORマッパーのEntityとして振る舞うこともできます。
