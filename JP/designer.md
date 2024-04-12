@@ -11,7 +11,25 @@
 ## メニューとツールバー
 
 ## Solution
+- app.clprj
+  - Applicationの設定
+- PageFrames
+  - メニューの設定
+- Modules
+  - moduleの設定
 
 ## ToolBox
+Module の設定中に使用する.
+- System Fields
+- Custom Fields
+- Db Fields
+- Rest Fields
+- Link Fields
+- Layout
 
 ## Property
+Module, Field の設定時に使用する.
+### Field 設定時
+- SYSTEM
+- GENERAL
+- DELETE
