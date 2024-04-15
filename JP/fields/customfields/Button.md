@@ -12,7 +12,7 @@
     - 表示テキスト
 4. Icon
     - アイコンを設定
-5. DbColumn
+5. OnClick
     - OnClick 時の動作を設定する
 
 <img src="../../images/Button詳細.png" alt="Button詳細" title="Button詳細" style="border: 1px solid;">
