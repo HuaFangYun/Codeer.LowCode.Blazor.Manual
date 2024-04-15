@@ -1,6 +1,6 @@
 # File
 
-
+Fileのアップロードを行うComponent
 
 <img src="../../images/File表示.png" alt="File表示" title="File表示" style="border: 1px solid;">
 
