@@ -14,5 +14,10 @@
     - Labelに表示するテキストを設定する.
 4. Style
     - H1～H6から選択する
+5. RelativeField
+    - 関連するFieldをしていする
+    - 一覧でLabelのD&DでLabel,Fieldを設定できる
+    - <img src="../../images/Label関連.png" alt="Label関連" title="Label関連" style="border: 1px solid;">
+
 
 <img src="../../images/Label詳細.png" alt="Label詳細" title="Label詳細" style="border: 1px solid;">
