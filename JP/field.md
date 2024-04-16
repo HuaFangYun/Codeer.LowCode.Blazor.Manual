@@ -1,7 +1,7 @@
 ## Field
 
 TODO 各Fieldの解説へのリンク
-### system field
+### System Fields
 テーブルに相対するカラムを作成した場合，system field を使用できる．（使用は任意）
 - [LogicalDelete](fields/systemfields/Logicaldelete.md)
 - [CreatedAt](fields/systemfields/CreatedAt.md)
@@ -10,7 +10,7 @@ TODO 各Fieldの解説へのリンク
 - [Updater](fields/systemfields/Updater.md)
 - [OptimisticLocking](fields/systemfields/OptimisticLocking.md)
 
-### custom field
+### Common Fields
 - [AnchorTag](fields/customfields/AnchorTag.md)
 - [Boolean](fields/customfields/Boolean.md)
 - [Button](fields/customfields/Button.md)
@@ -28,7 +28,7 @@ TODO 各Fieldの解説へのリンク
 - [Module](fields/customfields/Module.md)
 - [ModuleSelect](fields/customfields/ModuleSelect.md)
 - [Number](fields/customfields/Number.md)
-- [OptimisticLock](fields/customfields/OptimisticLock.md)
+- [OptimisticLocking](fields/customfields/OptimisticLocking.md)
 - [Password](fields/customfields/Password.md)
 - [Search](fields/customfields/Search.md)
 - [Select](fields/customfields/Select.md)
