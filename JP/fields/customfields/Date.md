@@ -8,7 +8,7 @@
     - Dateを設定する
 2. Name
     - フィールド名の設定. 全体設定時に表示される.
-3. DisplayDane
+3. DisplayName
     - TBD
 4. IsRequired
     - 登録時，必須にする
