@@ -10,7 +10,7 @@
 - [designer.settings](designer_settings.md)
 - [app.clprj](app_clprj.md)
 - [プロコード](procode.md)
-- [cssデザイン](css.md)
+- [css](css.md)
 
 ## 特徴 ...
 Codeer.LowCode.Blazor は、Blazor アプリにローコード機能を追加するためのライブラリです。
