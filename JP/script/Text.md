@@ -17,13 +17,12 @@ void SearchLayoutDesign_OnInitializeSearch()
 
 ## Comparison `property`
 
-一覧の検索条件の条件区分
+```csharp
+Recipename.Comparison = MatchComparison.Like;
+```
+
+Textで使用できる条件区分
 - Equal
-- NotEqual
-- LessThan
-- LessThanOrEqual
-- GreaterThan
-- GreaterThanOrEqual
 - Like
 
 
