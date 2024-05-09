@@ -16,7 +16,7 @@ public interface IMatchConditionData
     // 検索条件
     public MatchConditionBase? Condition { get; set; }
     // 検索対象のフィールド名
-    public string SearchTargetVariable { get; set; }
+    public string SearchTargetField { get; set; }
     // 検索対象のプロパティ名の候補
     public IEnumerable<string> VariableCandidates { get; }
 }
@@ -54,7 +54,7 @@ class SearchComponent : UserControl
         // 検索条件を生成
         var condition = new FieldValueMatchCondition
         {
-            SearchTargetVariable = data.SearchTargetVariable + ".Value",
+            SearchTargetVariable = data.SearchTargetField + ".Value",
             Comparison = MatchComparison.Equals,
         };
         condition.Value = Text.Text;
