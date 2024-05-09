@@ -69,3 +69,12 @@ class SearchComponent : UserControl
 `FieldValueMatchCondition` は、検索対象のプロパティを特定の値と比較し条件を満たしたときにマッチする検索条件です。
 他にも、`FieldVariableMatchCondition` を使用することで他のフィールドの値をもとに比較することもできます。
 `FieldVariableMatchCondition` を使用した入力欄を作成する際には、`IMatchConditionData.VariableCandidates` を通して利用可能な候補の一覧が提供されるため、これを利用して入力補完を実装することができます。
+
+## FieldDesignとの関連付け
+
+ここまでで作成したユーザーコントロールをユーザー定義FieldDesignに関連付ける必要があります。
+関連付けは、 `GetSearchControlTypeFullName` の実装で、先ほど作成したクラスの完全修飾名を返すことでできます。
+
+```cs
+public override string GetSearchControlTypeFullName() => "Your.Custom.SearchComponent.Name";
+```
