@@ -21,3 +21,13 @@
 
 
 <img src="../../images/Label詳細.png" alt="Label詳細" title="Label詳細" style="border: 1px solid;">
+
+## スクリプト
+| プロパティ名          | 型               | 説明                                            |
+|-----------------|-----------------|-----------------------------------------------|
+| BackgroundColor | string?         | Fieldの背景色                                     | 
+| Color           | string?         | Fieldの色                                       |
+| IsEnabled       | bool            | Fieldの有効/無効                                   |
+| IsVisible       | bool            | Fieldの表示/非表示                                  |
+| IsViewOnly      | bool            | Fieldの編集可/編集不可                                |
+| Text            | string          | ラベルのテキスト                                      |
