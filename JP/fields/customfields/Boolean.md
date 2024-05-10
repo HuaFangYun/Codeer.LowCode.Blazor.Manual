@@ -20,3 +20,15 @@
    - OnClick 時の動作を設定する
 
 <img src="../../images/Boolean詳細.png" alt="Boolean詳細" title="Boolean詳細" style="border: 1px solid;">
+
+## スクリプト
+| プロパティ名          | 説明                                               |
+|-----------------|--------------------------------------------------|
+| Value           | Fieldの値                                          |
+| SearchValue     | 一覧の検索条件のinputフィールドのvalue                         |
+| Color           | Fieldの色                                          |
+| BackgroundColor | Fieldの背景色                                        | 
+| IsEnabled       | Fieldの有効/無効                                      |
+| IsVisible       | Fieldの表示/非表示                                     |
+| IsViewOnly      | Fieldの編集可/編集不可                                   |
+| IsModified      | Fieldが変更されたどうか                                   |

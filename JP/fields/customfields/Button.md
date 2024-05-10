@@ -16,3 +16,12 @@
     - OnClick 時の動作を設定する
 
 <img src="../../images/Button詳細.png" alt="Button詳細" title="Button詳細" style="border: 1px solid;">
+
+## スクリプト
+| プロパティ名          | 説明                                               |
+|-----------------|--------------------------------------------------|
+| Color           | Fieldの色                                          |
+| BackgroundColor | Fieldの背景色                                        | 
+| IsEnabled       | Fieldの有効/無効                                      |
+| IsVisible       | Fieldの表示/非表示                                     |
+| IsViewOnly      | Fieldの編集可/編集不可                                   |

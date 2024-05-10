@@ -23,3 +23,16 @@
     
 
 <img src="../../images/DateTime詳細.png" alt="DateTime詳細" title="DateTime詳細" style="border: 1px solid;">
+
+## スクリプト
+| プロパティ名          | 説明             |
+|-----------------|----------------|
+| Value           | Fieldの値        |
+| Color           | Fieldの色        |
+| BackgroundColor | Fieldの背景色      | 
+| IsEnabled       | Fieldの有効/無効    |
+| IsVisible       | Fieldの表示/非表示   |
+| IsViewOnly      | Fieldの編集可/編集不可 |
+| IsModified      | Fieldが変更されたどうか |
+| SearchMax       | 一覧の検索条件の日時の最大値 |
+| SearchMin       | 一覧の検索条件の日時の最小値 |
