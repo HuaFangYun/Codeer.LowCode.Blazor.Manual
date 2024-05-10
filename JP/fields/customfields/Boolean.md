@@ -22,13 +22,13 @@
 <img src="../../images/Boolean詳細.png" alt="Boolean詳細" title="Boolean詳細" style="border: 1px solid;">
 
 ## スクリプト
-| プロパティ名          | 説明                                               |
-|-----------------|--------------------------------------------------|
-| Value           | Fieldの値                                          |
-| SearchValue     | 一覧の検索条件のinputフィールドのvalue                         |
-| Color           | Fieldの色                                          |
-| BackgroundColor | Fieldの背景色                                        | 
-| IsEnabled       | Fieldの有効/無効                                      |
-| IsVisible       | Fieldの表示/非表示                                     |
-| IsViewOnly      | Fieldの編集可/編集不可                                   |
-| IsModified      | Fieldが変更されたどうか                                   |
+| プロパティ名          | 型       | 説明               |
+|-----------------|---------|------------------|
+| Value           | bool?   | Fieldの値          |
+| SearchValue     | string? | 検索条件のフィールドのvalue |
+| BackgroundColor | string? | Fieldの背景色        | 
+| Color           | string? | Fieldの色          |
+| IsEnabled       | bool    | Fieldの有効/無効      |
+| IsVisible       | bool    | Fieldの表示/非表示     |
+| IsViewOnly      | bool    | Fieldの編集可/編集不可   |
+| IsModified      | bool    | Fieldが変更されたどうか   |

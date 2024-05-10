@@ -42,29 +42,29 @@
 
 
 ## スクリプト
-| プロパティ名          | 説明             |
-|-----------------|----------------|
-| AllowLoad       | ロードの可否         |
-| Color           | Fieldの色        |
-| BackgroundColor | Fieldの背景色      | 
-| IsEnabled       | Fieldの有効/無効    |
-| IsVisible       | Fieldの表示/非表示   |
-| IsViewOnly      | Fieldの編集可/編集不可 |
-| IsModified      | Fieldが変更されたどうか |
-| Limit           | 表示する最大件数       |
-| Page            | ページ            |
-| PageCount       | ページ数           |
-| RowCount        | 行のカウント         |
-| Rows            | 行数             |
-| SelectedIndex   | 選択されたインデックス    |
+| プロパティ名          | 型            | 説明             |
+|-----------------|--------------|----------------|
+| AllowLoad       | bool         | ロードの可否         |
+| Color           | string?      | Fieldの色        |
+| BackgroundColor | string?      | Fieldの背景色      | 
+| IsEnabled       | bool         | Fieldの有効/無効    |
+| IsVisible       | bool         | Fieldの表示/非表示   |
+| IsViewOnly      | bool         | Fieldの編集可/編集不可 |
+| IsModified      | bool         | Fieldが変更されたどうか |
+| Limit           | int?         | 表示する最大件数       |
+| Page            | int?         | ページ            |
+| PageCount       | int?         | ページ数           |
+| RowCount        | int?         | 行のカウント         |
+| Rows            | List<Module> | 全モジュールのリスト     |
+| SelectedIndex   | int          | 選択されたインデックス    |
 
 ## メソッド
-| メソッド名                                       | 説明                  |
-|---------------------------------------------|---------------------|
-| AddRow()                                    | 1行追加する              |
-| AddRow(Module row)                          | 指定されたモジュールで1行追加する   |
-| DeleteRow(Module row)                       | 指定されたモジュールを削除する     |
-| DeleteAllRows()                             | 全て削除する              |
-| Reload()                                    | リロードする              |
-| SetSearchCondition(ModuleSearcher searcher) | 指定された検索条件をセットする     |
-| UpdateRow(int index, Module src)            | 指定されたインデックス，引数で更新する |
+| メソッド名                                       | 戻り値    | 説明                  |
+|---------------------------------------------|--------|---------------------|
+| AddRow()                                    | Module | 1行追加する              |
+| AddRow(Module row)                          | Module | 指定されたモジュールで1行追加する   |
+| DeleteRow(Module row)                       | なし     | 指定されたモジュールを削除する     |
+| DeleteAllRows()                             | なし     | 全て削除する              |
+| Reload()                                    | なし     | リロードする              |
+| SetSearchCondition(ModuleSearcher searcher) | なし     | 指定された検索条件をセットする     |
+| UpdateRow(int index, Module src)            | なし     | 指定されたインデックス，引数で更新する |

@@ -39,3 +39,25 @@ create table temporary_files
     - File変更時のスクリプト
 
 <img src="../../images/File詳細.png" alt="File詳細" title="File詳細" style="border: 1px solid;">
+
+
+| プロパティ名             | 型               | 説明               |
+|--------------------|-----------------|------------------|
+| AllowLoad          | bool            | ロードの可否           |
+| BackgroundColor    | string?         | Fieldの背景色        | 
+| Color              | string?         | Fieldの色          |
+| FileName           | string?         | ファイル名            |
+| FileNameComparison | MatchComparison | ファイル名の検索条件の条件区分  |
+| IsEnabled          | bool            | Fieldの有効/無効      |
+| IsVisible          | bool            | Fieldの表示/非表示     |
+| IsViewOnly         | bool            | Fieldの編集可/編集不可   |
+| IsModified         | bool            | Fieldが変更されたどうか   |
+| SearchFileName     | int?            | 検索条件のファイル名       |
+| SearchFileSizeMax  | List<Module>    | 検索条件のファイルサイズの最大値 |
+| SearchFileSizeMin  | int             | 検索条件のファイルサイズの最小値 |
+
+## メソッド
+| メソッド名             | 戻り値           | 説明             |
+|-------------------|---------------|----------------|
+| Download()        | なし            | ダウンロードする       |
+| GetMemoryStream() | MemoryStream? | メモリーストリームを取得する |

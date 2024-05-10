@@ -24,14 +24,14 @@
 <img src="../../images/Text詳細.png" alt="Text詳細" title="Text詳細" style="border: 1px solid;">
 
 ## スクリプト
-| プロパティ名          | 説明                                               |
-|-----------------|--------------------------------------------------|
-| Value           | Fieldの値                                          |
-| SearchValue     | 一覧の検索条件のinputフィールドのvalue                         |
-| Comparison      | 一覧の検索条件のinputフィールドの条件区分<br>`Equal`, `Like`が使用できる |
-| Color           | Fieldの色                                          |
-| BackgroundColor | Fieldの背景色                                        | 
-| IsEnabled       | Fieldの有効/無効                                      |
-| IsVisible       | Fieldの表示/非表示                                     |
-| IsViewOnly      | Fieldの編集可/編集不可                                   |
-| IsModified      | Fieldが変更されたどうか                                   |
+| プロパティ名          | 型               | 説明                                            |
+|-----------------|-----------------|-----------------------------------------------|
+| Value           | string?         | Fieldの値                                       |
+| SearchValue     | string?         | 検索条件のinputフィールドのvalue                         |
+| Comparison      | MatchComparison | 検索条件のinputフィールドの条件区分<br>`Equal`, `Like`が使用できる |
+| BackgroundColor | string?         | Fieldの背景色                                     | 
+| Color           | string?         | Fieldの色                                       |
+| IsEnabled       | bool            | Fieldの有効/無効                                   |
+| IsVisible       | bool            | Fieldの表示/非表示                                  |
+| IsViewOnly      | bool            | Fieldの編集可/編集不可                                |
+| IsModified      | bool            | Fieldが変更されたどうか                                |
