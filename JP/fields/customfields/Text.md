@@ -22,3 +22,19 @@
    - textareaにする場合，行数を指定する. 
 
 <img src="../../images/Text詳細.png" alt="Text詳細" title="Text詳細" style="border: 1px solid;">
+
+## プロパティ
+| プロパティ名      | 説明                                               |
+|-------------|--------------------------------------------------|
+| SearchValue | 一覧の検索条件のinputフィールドのvalue                         |
+| Comparison  | 一覧の検索条件のinputフィールドの条件区分<br>`Equal`, `Like`が使用できる |
+
+## 共通のプロパティ（継承したプロパティ）
+| プロパティ名          | 説明             |
+|-----------------|----------------|
+| Color           | Fieldの色        |
+| BackgroundColor | Fieldの背景色      | 
+| IsEnabled       | Fieldの有効/無効    |
+| IsVisible       | Fieldの表示/非表示   |
+| IsViewOnly      | Fieldの編集可/編集不可 |
+| IsModified      | Fieldが変更されたどうか |
