@@ -57,7 +57,7 @@ Write in syntax nearly identical to C#. The API design allows for implementation
 
 - General computational operations
 - Screen controls
-- Execution of WebAPI/stored procedures
+- Execution of WebAPI
 - Editing Excel/PDF creation
 
 ## Excel Integration Support
