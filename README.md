@@ -1,4 +1,4 @@
-# Codeer.LowCode.Blazor (Alpha)
+# Codeer.LowCode.Blazor
 
 [日本語](JP/README.md)<br/>
 
