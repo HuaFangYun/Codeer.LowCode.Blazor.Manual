@@ -1,4 +1,4 @@
-# Codeer.LowCode.Blazor (α)
+# Codeer.LowCode.Blazor
 
 ## 利用方法
 - [アーキテクチャ](architecture.md)
