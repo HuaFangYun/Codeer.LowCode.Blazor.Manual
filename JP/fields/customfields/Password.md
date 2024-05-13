@@ -21,3 +21,21 @@ Passwordを表すField
 
 <img src="../../images/Password詳細.png" alt="Password詳細" title="Password詳細" style="border: 1px solid;">
 
+## スクリプト
+| プロパティ名          | 型        | 説明             |
+|-----------------|----------|----------------|
+| BackgroundColor | string?  | Fieldの背景色      | 
+| Color           | string?  | Fieldの色        |
+| IsEnabled       | bool     | Fieldの有効/無効    |
+| IsModified      | bool     | Fieldが変更されたどうか |
+| IsVisible       | bool     | Fieldの表示/非表示   |
+| IsViewOnly      | bool     | Fieldの編集可/編集不可 |
+| Value           | string   | Fieldの値        |
+
+## メソッド
+| メソッド名           | 戻り値  | 説明                                        |
+|-----------------|------|-------------------------------------------|
+| CheckPassword() | bool | パスワードが入力されているか，パスワードと確認用パスワードが一致するかチェックする |
+| Clear()         | なし   | パスワード，確認用パスワードをクリアする                      |
+
+

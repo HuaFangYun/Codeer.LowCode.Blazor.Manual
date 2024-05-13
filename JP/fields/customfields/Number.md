@@ -23,3 +23,20 @@
 
 <img src="../../images/Number詳細.png" alt="Number詳細" title="Number詳細" style="border: 1px solid;">
 
+
+## スクリプト
+| プロパティ名          | 型        | 説明             |
+|-----------------|----------|----------------|
+| BackgroundColor | string?  | Fieldの背景色      | 
+| Color           | string?  | Fieldの色        |
+| DisplayText     | string?  | Fieldの色        |
+| IsEnabled       | bool     | Fieldの有効/無効    |
+| IsModified      | bool     | Fieldが変更されたどうか |
+| IsVisible       | bool     | Fieldの表示/非表示   |
+| IsViewOnly      | bool     | Fieldの編集可/編集不可 |
+| SearchMax       | decimal? | 検索条件の数値の最大値    |
+| SearchMin       | decimal? | 検索条件の数値の最大値    |
+| Value           | string   | Fieldの値        |
+
+
+

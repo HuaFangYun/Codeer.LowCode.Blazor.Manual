@@ -22,3 +22,18 @@
     - テーブルのカラムの設定
 
 <img src="../../images/Time詳細.png" alt="Time詳細" title="Time詳細" style="border: 1px solid;">
+
+## スクリプト
+| プロパティ名          | 型         | 説明             |
+|-----------------|-----------|----------------|
+| BackgroundColor | string?   | Fieldの背景色      | 
+| Color           | string?   | Fieldの色        |
+| DisplayText     | string?   | Fieldの色        |
+| IsEnabled       | bool      | Fieldの有効/無効    |
+| IsModified      | bool      | Fieldが変更されたどうか |
+| IsVisible       | bool      | Fieldの表示/非表示   |
+| IsViewOnly      | bool      | Fieldの編集可/編集不可 |
+| SearchMax       | TimeOnly? | 検索条件の時刻の最大値    |
+| SearchMin       | TimeOnly? | 検索条件の時刻の最大値    |
+| Value           | string    | Fieldの値        |
+

@@ -41,3 +41,29 @@
 
 <img src="../../images/Select詳細.png" alt="Select詳細" title="Select詳細" style="border: 1px solid;">
 
+
+## スクリプト
+| プロパティ名              | 型       | 説明                    |
+|---------------------|---------|-----------------------|
+| AllowReloadLinkData | bool    | 再読み込みを許可するか           | 
+| BackgroundColor     | string? | Fieldの背景色             | 
+| Color               | string? | Fieldの色               |
+| DisplayText         | string? | Fieldの色               |
+| IsEnabled           | bool    | Fieldの有効/無効           |
+| IsModified          | bool    | Fieldが変更されたどうか        |
+| IsVisible           | bool    | Fieldの表示/非表示          |
+| IsViewOnly          | bool    | Fieldの編集可/編集不可        |
+| SearchValue         | string? | 検索条件のinputフィールドのvalue |
+| Value               | string  | Fieldの値               |
+
+
+## メソッド
+| メソッド名                | 戻り値 | 説明         |
+|----------------------|-----|------------|
+| ReloadCandidates()   | なし  | 選択肢をリロードする |
+| SetSearchCondition() | なし  | 検索条件をセットする |
+
+
+
+
+
