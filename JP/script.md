@@ -53,7 +53,7 @@ void Button_OnClick()
 ```
 
 ## ProCode連携
-
+<a id="procode-line"></a>
 .Netのクラスを追加することができます。IAppInfoServiceを実装するクラスでScriptRuntimeTypeManager GetScriptRuntimeTypeManager()で返すオブジェクトに追加できます。
 
 ### AddType
