@@ -28,8 +28,6 @@ imageを表示するField
 | IsViewOnly      | bool    | Fieldの編集可/編集不可 |
 | ResourcePath    | string  | Fieldの編集可/編集不可 |
 
-
-## メソッド
 | メソッド名             | 戻り値 | 説明             |
 |-------------------|-----|----------------|
 | SetBase64Data()   | なし  | ダウンロードする       |
