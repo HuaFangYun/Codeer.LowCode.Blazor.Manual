@@ -17,12 +17,12 @@ ModuleはC#のclassに近い概念です。
 ## 全体設定
 | 項目            | 説明                                                                                           |
 |---------------|----------------------------------------------------------------------------------------------|
-| DisplayName   | T.B.D                                                                                        |
-| PageTitle     | htmlのタイトルに設定されます.                                                                            |
+| DisplayName   | 表示名です。現在はModuleSelectFieldで表示するときだけに使われています                                                                                        |
+| PageTitle     | htmlのタイトルに設定されます                                                                            |
 | DataSource    | DBとテーブルを指定することによりEntityとして設定します.<br/>DataSourceは[designer.settings](designer_settings.md)に設定 |
-| ListPageField | T.B.D.                                                                                       |
-| Option        | `作成`, `更新`, `削除`, `一括ダウンロード`, `一括更新` の有無を設定                                                  |
-| Access        | - UserFilter<br/> - DataFilter   T.B.D                                                       |
+| ListPageField | 一覧ページでのリスト設定です                                                                                       |
+| Option        | `作成`, `更新`, `削除`, `一括ダウンロード`, `一括更新` の有無を設定します                                                  |
+| Access        | - ユーザーとデータ内容によるアクセス制御を設定します                                                       |
 | Fields        | Module内で使用するFieldをToolBoxから定義します                                                             |
 | Scripts       | Scriptを定義します                                                                                 |
 
