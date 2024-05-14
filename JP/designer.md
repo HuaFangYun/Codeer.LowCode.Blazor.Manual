@@ -12,7 +12,7 @@
 ## レイアウトに関して
 Desingerでは画面をポトペタで非常に簡単に設定できます。
 
-[レイアウト](layout.md)
+[詳細画面・検索画面のレイアウト](layout.md)
 
 ## デザイナのカスタマイズ
 デザイナもCodeer.LowCode.Blazor.Desingerを参照するWPFアプリです。ProCodeでカスタマイズ可能部分があります。
