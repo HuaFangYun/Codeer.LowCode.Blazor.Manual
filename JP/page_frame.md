@@ -25,8 +25,8 @@ Home(最初の図の例では左のサイドバーの上部に表示されてい
 | フィールド      | 説明                                            |
 |------------|-----------------------------------------------|
 | Icon       | メニューのアイコンを設定                                  |
-| Title      | メニューのタイトルを設定<br/>`/` で区切ることでメニューを階層にできる       |
-| Module     | [Module](module.md) を指定                       |
+| Title      | メニューのタイトルを設定`/` で区切ることでメニューを階層にできる       |
+| Module     | [Module](module.md) を指定、別のPageFraqmeに移る場合はPageFrame/Moduleのように<br/>`/` で区切ることで指定できる                       |
 
 ## Other Pages
 SideBar、Headerで指定していないモジュールをページとして表示する場合にここに列挙します。SideBar、Header、Other Pages に指定しているもの以外はPageFrame内では表示できません。
