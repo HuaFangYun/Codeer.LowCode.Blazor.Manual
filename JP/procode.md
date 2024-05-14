@@ -95,22 +95,23 @@ Field,FieldDesignの実装が必要になります。必要に応じてFieldComp
 ### FieldDesignBaseを継承したクラス
 FieldDesignBaseを継承したクラスを作ります。
 これはDesignerでの設定を格納するクラスです。
+これは実装が必須です。
 DesignerAttributeをつけたPropertyがDesignerのProperty画面に表示され編集することができます。
 また以下のメソッドを実装することで関連するインスタンスを実行時に生成できます。
 - **GetWebComponentTypeFullName**
-  - Web上でのコンポーネントのTypeFullName。FieldComponentBase<T>を継承している必要があります
+  - Web上でのコンポーネントのTypeFullName。FieldComponentBase<T>を継承している必要があります。通常は実装しますがデータだけのFieldとして作成したい場合は必要ありません。string.Emptyを返してください。
 
 - **GetSearchWebComponentTypeFullName**
-  - Web上での検索コンポーネントのTypeFullName
+  - Web上での検索コンポーネントのTypeFullName。検索が必要なければ実装は不要です。string.Emptyを返してください。
 
 - **GetSearchControlTypeFullName**
-  - WPFのDesigner上でのListなどの検索条件で表示される検索コントロールのTypeFullName
+  - WPFのDesigner上でのListFieldなどの検索条件で表示される検索コントロールのTypeFullName。ListFieldなどでの条件に必要ない場合は実装は不要です。string.Emptyを返してください。
 
 - **CreateField**
-  - FieldBaseを継承したクラスを生成
+  - FieldBaseを継承したクラスを生成。実装は必須です。
 
 - **CreateData**
-  - FieldDataBaseを継承したクラスを生成
+  - FieldDataBaseを継承したクラスを生成。通常は実装が必要ですがDBにデータを入出力する必要がなければ不要です。
 
 ```csharp
 using Codeer.LowCode.Blazor.OperatingModel;
