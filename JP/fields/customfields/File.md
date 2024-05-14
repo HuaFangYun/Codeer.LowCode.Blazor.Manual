@@ -56,7 +56,6 @@ create table temporary_files
 | SearchFileSizeMax  | List<Module>    | 検索条件のファイルサイズの最大値 |
 | SearchFileSizeMin  | int             | 検索条件のファイルサイズの最小値 |
 
-## メソッド
 | メソッド名             | 戻り値           | 説明             |
 |-------------------|---------------|----------------|
 | Download()        | なし            | ダウンロードする       |
