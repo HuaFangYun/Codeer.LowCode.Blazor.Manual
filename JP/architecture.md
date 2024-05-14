@@ -36,6 +36,7 @@ FieldはModuleを構成する部品です。わかりやすいものはTextField
 - 大部分のFieldはデータを持ちます。
 - ModuleをDBとマッピングしたときにカラムを割り当てて入出力することができます。
 - 大部分のFieldはUIを持ちレイアウトに配置することができます。
+- Webのフロントで表示する場合はレイアウトに配置されてるかもしくはDataOnlyFieldsに配置しているFieldのみサーバーからデータを取得します。
 - メソッドプロパティを持ちスクリプトから操作することもできます。
 
 ## [ProCode](procode.md)との連携も Codeer.LowCode.Blaozr では重要な機能です。
