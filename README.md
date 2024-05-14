@@ -1,7 +1,8 @@
 # Codeer.LowCode.Blazor
 
 [日本語](JP/README.md)<br/>
-※日本語の方を先行で作成しています
+※日本語の方を先行で作成しています。
+(We are creating the Japanese version first.)
 
 ## Features ...
 Codeer.LowCode.Blazor is a library for adding low-code functionality to your Blazor apps.
