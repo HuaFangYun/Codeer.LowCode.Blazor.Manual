@@ -2,6 +2,8 @@
 
 Codeer.LowCode.Blazorは、Blazorアプリにローコード機能を追加するためのライブラリです。素早く簡単にアプリケーションを構築できるよう設計されています。
 
+<img src="../Image/lc_logo_256.png">
+
 ## 特徴
 Codeer.LowCode.Blazorは以下の特徴を持っています:
 - 強力なローコードエンジン
