@@ -1,5 +1,13 @@
 # Field
 
+FieldはModuleを構成する部品です。わかりやすいものはTextFieldなどのUIを持つ部品です。これもWinFormsなどでFormクラスがTextContolをプロパティとして持つことをイメージしてもらうとわかりやすいと思います。UIに表示せずにデータの入出力だけに使うことも可能です。
+- 大部分のFieldはデータを持ちます。
+- ModuleをDBとマッピングしたときにカラムを割り当てて入出力することができます。
+- 大部分のFieldはUIを持ちレイアウトに配置することができます。
+- Webのフロントで表示する場合はレイアウトに配置されてるかもしくはDataOnlyFieldsに配置しているFieldのみサーバーからデータを取得します。
+- メソッドプロパティを持ちスクリプトから操作することもできます。
+
+  ## Fields
 - [AnchorTag](fields/customfields/AnchorTag.md)
 - [Boolean](fields/customfields/Boolean.md)
 - [Button](fields/customfields/Button.md)
