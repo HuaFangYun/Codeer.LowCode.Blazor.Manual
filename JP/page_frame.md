@@ -29,4 +29,4 @@ Home(最初の図の例では左のサイドバーの上部に表示されてい
 | Module     | [Module](module.md) を指定                       |
 
 ## Other Pages
-SideBar、Headerで指定していないモジュールをページとして表示する場合にここに列挙する。SideBar、Header、Other Pages に指定しているもの以外はPageFrame内では表示できません。
+SideBar、Headerで指定していないモジュールをページとして表示する場合にここに列挙します。SideBar、Header、Other Pages に指定しているもの以外はPageFrame内では表示できません。
