@@ -56,8 +56,6 @@
 | SearchValue         | string? | 検索条件のinputフィールドのvalue |
 | Value               | string  | Fieldの値               |
 
-
-## メソッド
 | メソッド名                | 戻り値 | 説明         |
 |----------------------|-----|------------|
 | ReloadCandidates()   | なし  | 選択肢をリロードする |
