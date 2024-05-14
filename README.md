@@ -1,4 +1,5 @@
 # Codeer.LowCode.Blazor
+<img src="/Image/lc_logo.png">
 
 [日本語](JP/README.md)<br/>
 ※日本語の方を先行で作成しています。
