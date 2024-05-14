@@ -1,67 +1,85 @@
-## スクリプト
+# スクリプト
 
 <img src="images/script_summary.png">
 
-C#の基本的な構文で記述できます。
-イベントをトリガとして実行されます。
-モジュールのメソッドとして追加されます。
-全てpublicとなり外部から呼び出すことも可能です。
-Moduleやその中で使っているFieldを操作できます。
-プロコードから利用可能なクラスを設定できるのでスクリプトからプロコードで実装した機能を呼び出すことが可能です。
+C#の基本的な構文で記述できます。イベントをトリガとして実行され、モジュールのメソッドとして追加されます。全てpublicとなり外部から呼び出すことも可能です。Moduleやその中で使っているFieldを操作できます。プロコードから利用可能なクラスを設定できるのでスクリプトからプロコードで実装した機能を呼び出すことが可能です。
 
 ## 利用可能文法
-if, else, elseif, 三項演算子, switch, for, foreach, using, break, continue, return 
+
+- if, else, elseif
+- 三項演算子
+- switch
+- for, foreach
+- using
+- break, continue
+- return
 
 ## 利用可能な型
-### プリミティブな型
-bool,byte,char,ushort,short,uint,int,ulong,long,float,decimal,string
 
-### Module,各Field
+### プリミティブな型
+
+- bool
+- byte
+- char
+- ushort
+- short
+- uint
+- int
+- ulong
+- long
+- float
+- decimal
+- string
+
+### Module, 各Field
+
 - [module](module.md)
 - [field](field.md)
 
 ## メソッドの定義と呼び出し
+
 メソッドは定義して呼び出すことができます。また定義したメソッドはpublicになっていて別のモジュールから呼び出すことも可能です。
 
 ```csharp
 void Button_OnClick()
 {
-    //メソッドの定義と呼び出し
+    // メソッドの定義と呼び出し
     var result = MyMethod(10, 100);
     
-    //別のModuleのメソッドを呼び出す
+    // 別のModuleのメソッドを呼び出す
     var author = new Author();
     var info = author.GetInfo();
 }
 ```
+
 ## ProCode連携
-.Netのクラスを追加することができます。
-IAppInfoServiceを実装するクラスで
-ScriptRuntimeTypeManager GetScriptRuntimeTypeManager()
-で返すオブジェクトに追加できます。
+
+.Netのクラスを追加することができます。IAppInfoServiceを実装するクラスでScriptRuntimeTypeManager GetScriptRuntimeTypeManager()で返すオブジェクトに追加できます。
 
 ### AddType
-利用できるタイプを追加できます。追加されたタイプは利用可能なコンストラクタがあればnewで生成することができ、staticな操作があれば利用できるようになります。またenumも使えるようになります。
-コンストラクタ、メソッドは利用可能なタイプのもののみ使えます。例えば以下の例でMathクラスを登録していますがこれだけでは public static decimal Round(decimal d, MidpointRounding mode) は利用することができません。
-一緒にMidpointRoundingを登録しているのでRoundメソッドが利用可能になります。
+
+利用できるタイプを追加できます。追加されたタイプは利用可能なコンストラクタがあればnewで生成することができ、staticな操作があれば利用できるようになります。またenumも使えるようになります。コンストラクタ、メソッドは利用可能なタイプのもののみ使えます。例えば以下の例でMathクラスを登録していますがこれだけでは public static decimal Round(decimal d, MidpointRounding mode) は利用することができません。一緒にMidpointRoundingを登録しているのでRoundメソッドが利用可能になります。
 
 ※以下の例の型はライブラリないでデフォルトで登録されています。
+
 ```csharp
 scriptRuntimeTypeManager.AddType<MemoryStream>();
 scriptRuntimeTypeManager.AddType(typeof(Math));
-scriptRuntimeTypeManager.AAddType<MidpointRounding>();
+scriptRuntimeTypeManager.AddType<MidpointRounding>();
 ```
 
 スクリプト例
+
 ```csharp
 var result = Math.Round(1.23, MidpointRounding.AwayFromZero);
 ```
 
+### AddService
 
-## AddService
 サービスとしてインスタンスを登録できます。スクリプト中ではstaticメソッドのように利用できます。
 
 ※以下の例はテンプレートコード内で登録されています。
+
 ```csharp
 scriptRuntimeTypeManager.AddService(new WebApiService(http, logger));
 ```
