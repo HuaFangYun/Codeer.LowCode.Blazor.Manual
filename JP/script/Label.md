@@ -1,4 +1,0 @@
-# Label
-
-## Text `property`
-ラベルのテキスト
