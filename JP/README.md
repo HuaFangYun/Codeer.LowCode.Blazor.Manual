@@ -1,7 +1,7 @@
 # Codeer.LowCode.Blazor
 
 ## 利用方法
-- [アーキテクチャ](architecture.md)
+- [概略](architecture.md)
 - [デザイナ](designer.md)
 - [Module](module.md)
 - [Field](field.md)
