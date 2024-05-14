@@ -16,7 +16,7 @@
 Codeer.LowCode.Blazor は、Blazor アプリにローコード機能を追加するためのライブラリです。
 
 ## Codeer.LowCode.Blazor ライセンス情報
-Codeer.LowCode.Blazorの使用ライセンスの詳細については、[こちら](https://www.nuget.org/packages/Codeer.LowCode.Blazor/0.13.1/License) をご覧ください。 
+Codeer.LowCode.Blazorの使用ライセンスの詳細については、[こちら](https://www.nuget.org/packages/Codeer.LowCode.Blazor/1.0.0/License) をご覧ください。 
 - このソフトウェアの試用版は、製品の評価目的のみで使用できます。
 - 商用目的でのソフトウェアの使用には開発ライセンスの購入が必要です。製品の開発時の利用も商用利用に含まれます。
 - コミュニティ利用を希望される方には、申請により無償利用ライセンスを発行する予定です。
