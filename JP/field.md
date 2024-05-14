@@ -1,14 +1,4 @@
-## Field
-
-TODO 各Fieldの解説へのリンク
-### System Fields
-テーブルに相対するカラムを作成した場合，system field を使用できる．（使用は任意）
-- [LogicalDelete](fields/systemfields/Logicaldelete.md)
-- [CreatedAt](fields/systemfields/CreatedAt.md)
-- [UpdatedAt](fields/systemfields/UpdatedAt.md)
-- [Creator](fields/systemfields/Creator.md)
-- [Updater](fields/systemfields/Updater.md)
-- [OptimisticLocking](fields/systemfields/OptimisticLocking.md)
+# Field
 
 ### Common Fields
 - [AnchorTag](fields/customfields/AnchorTag.md)
