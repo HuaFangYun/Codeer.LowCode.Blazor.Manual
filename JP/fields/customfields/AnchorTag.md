@@ -31,3 +31,18 @@
   - OnClick 時の動作を設定する
  
 <img src="../../images/AnchorTag詳細.png" alt="AnchorTag詳細" title="AnchorTag詳細" style="border: 1px solid;">
+
+## スクリプト
+| プロパティ名          | 型               | 説明                                            |
+|-----------------|-----------------|-----------------------------------------------|
+| BackgroundColor | string?         | Fieldの背景色                                     | 
+| Color           | string?         | Fieldの色                                       |
+| IsEnabled       | bool            | Fieldの有効/無効                                   |
+| IsVisible       | bool            | Fieldの表示/非表示                                  |
+| IsViewOnly      | bool            | Fieldの編集可/編集不可                                |
+
+## メソッド
+| メソッド名      | 戻り値     | 説明        |
+|------------|---------|-----------|
+| GetTitle() | string  | タイトルを取得する |
+| GetUrl()   | string  | URLを取得する  |
