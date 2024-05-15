@@ -1,6 +1,7 @@
 # モジュール全体設定
 
 <img src="./images/module/モジュール全体.png" alt="モジュール全体" title="モジュール全体" style="border: 1px solid;">
+
 ## 1. ソリューション
 アプリケーション，ページフレーム，モジュールの設定を行います.
 

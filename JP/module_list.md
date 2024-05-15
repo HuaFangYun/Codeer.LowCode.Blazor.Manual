@@ -1,4 +1,4 @@
-# モジュール全体設定
+# モジュール一覧設定
 
 <img src="./images/module/モジュール一覧.png" alt="モジュール一覧" title="モジュール一覧" style="border: 1px solid;">
 
