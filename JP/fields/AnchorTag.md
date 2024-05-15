@@ -30,7 +30,7 @@
 11. OnClick
   - OnClick 時の動作を設定する
  
-<img src="../../images/AnchorTag詳細.png" alt="AnchorTag詳細" title="AnchorTag詳細" style="border: 1px solid;">
+<img src="../images/AnchorTag詳細.png" alt="AnchorTag詳細" title="AnchorTag詳細" style="border: 1px solid;">
 
 ## スクリプト
 | プロパティ名          | 型               | 説明                                            |

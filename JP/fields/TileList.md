@@ -2,9 +2,9 @@
 
 タイル状にmoduleを表示する
 
-<img src="../../images/TileList表示.png" alt="TileList表示" title="TileList表示" style="border: 1px solid;">
+<img src="../images/TileList表示.png" alt="TileList表示" title="TileList表示" style="border: 1px solid;">
 
-<img src="../../images/TileList設定.png" alt="TileList設定" title="TileList設定" style="border: 1px solid;" >
+<img src="../images/TileList設定.png" alt="TileList設定" title="TileList設定" style="border: 1px solid;" >
 
 ### GENERAL
 1. FieldType
@@ -46,7 +46,7 @@
     - ソートに使用する項目
 - SortOrder
     - ソート順（`Asc` or `Desc`）
-      <img src="../../images/TileList詳細.png" alt="TileList詳細" title="TileList詳細" style="border: 1px solid;">
+      <img src="../images/TileList詳細.png" alt="TileList詳細" title="TileList詳細" style="border: 1px solid;">
 
 
 ## スクリプト

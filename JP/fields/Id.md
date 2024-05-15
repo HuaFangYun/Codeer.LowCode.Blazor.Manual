@@ -2,9 +2,9 @@
 
 Idを表すField
 
-<img src="../../images/Id表示.png" alt="Id表示" title="Id表示" style="border: 1px solid;">
+<img src="../images/Id表示.png" alt="Id表示" title="Id表示" style="border: 1px solid;">
 
-<img src="../../images/Id設定.png" alt="Id設定" title="Id設定" style="border: 1px solid;" >
+<img src="../images/Id設定.png" alt="Id設定" title="Id設定" style="border: 1px solid;" >
 
 1. FieldType
     - Idを設定する
@@ -19,7 +19,7 @@ Idを表すField
 6. DbColumn
     - テーブルのカラムの設定
 
-<img src="../../images/Id詳細.png" alt="Id詳細" title="Id詳細" style="border: 1px solid;">
+<img src="../images/Id詳細.png" alt="Id詳細" title="Id詳細" style="border: 1px solid;">
 
 ## スクリプト
 | プロパティ名          | 型       | 説明                    |

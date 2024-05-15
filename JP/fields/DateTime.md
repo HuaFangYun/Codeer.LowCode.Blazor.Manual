@@ -1,8 +1,8 @@
 # DateTime
 
-<img src="../../images/DateTime表示.png" alt="DateTime表示" title="DateTime表示" style="border: 1px solid;">
+<img src="../images/DateTime表示.png" alt="DateTime表示" title="DateTime表示" style="border: 1px solid;">
 
-<img src="../../images/DateTime設定.png" alt="DateTime設定" title="DateTime設定" style="border: 1px solid;" >
+<img src="../images/DateTime設定.png" alt="DateTime設定" title="DateTime設定" style="border: 1px solid;" >
 
 1. FieldType
     - DateTimeを設定する
@@ -22,7 +22,7 @@
     - カラムの設定
     
 
-<img src="../../images/DateTime詳細.png" alt="DateTime詳細" title="DateTime詳細" style="border: 1px solid;">
+<img src="../images/DateTime詳細.png" alt="DateTime詳細" title="DateTime詳細" style="border: 1px solid;">
 
 ## スクリプト
 | プロパティ名          | 型         | 説明             |

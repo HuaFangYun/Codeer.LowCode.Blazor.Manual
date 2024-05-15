@@ -1,9 +1,9 @@
 # Select
 
 
-<img src="../../images/Select表示.png" alt="Select表示" title="Select表示" style="border: 1px solid;">
+<img src="../images/Select表示.png" alt="Select表示" title="Select表示" style="border: 1px solid;">
 
-<img src="../../images/Select設定.png" alt="Select設定" title="Select設定" style="border: 1px solid;" >
+<img src="../images/Select設定.png" alt="Select設定" title="Select設定" style="border: 1px solid;" >
 
 ### GENERAL
 1. FieldType
@@ -39,7 +39,7 @@
 - SortOrder
   - ソート順. `Asc` or `Desc`
 
-<img src="../../images/Select詳細.png" alt="Select詳細" title="Select詳細" style="border: 1px solid;">
+<img src="../images/Select詳細.png" alt="Select詳細" title="Select詳細" style="border: 1px solid;">
 
 
 ## スクリプト
