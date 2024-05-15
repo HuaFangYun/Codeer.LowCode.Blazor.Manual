@@ -1,8 +1,8 @@
 # AnchorTag
 
-<img src="../../images/AnchorTag表示.png" alt="AnchorTag表示" title="AnchorTag表示" style="border: 1px solid;">
+<img src="../images/AnchorTag表示.png" alt="AnchorTag表示" title="AnchorTag表示" style="border: 1px solid;">
 
-<img src="../../images/AnchorTag設定.png" alt="AnchorTag設定" title="AnchorTag設定" style="border: 1px solid;">
+<img src="../images/AnchorTag設定.png" alt="AnchorTag設定" title="AnchorTag設定" style="border: 1px solid;">
 
 1. FieldType
   - AnchorTagを設定する
