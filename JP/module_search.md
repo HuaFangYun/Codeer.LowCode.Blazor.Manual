@@ -20,3 +20,18 @@
 
 ## 4. プロパティ
 選択しているFieldのプロパティが表示されます
+
+
+### 複数レイアウト
+ModuleFieldをSelectFieldで検索する場合，あらかじめ作成した複数のレイアウトから選択できます．
+- デフォルトレイアウトの例
+  <img src="./images/module/検索デフォルトレイアウト.png" alt="検索デフォルトレイアウト" title="検索デフォルトレイアウト" style="border: 1px solid;">
+  <img src="./images/module/検索デフォルトレイアウト指定.png" alt="検索デフォルトレイアウト指定" title="検索デフォルトレイアウト指定" style="border: 1px solid;">
+  <img src="./images/module/検索デフォルトレイアウト表示.png" alt="検索デフォルトレイアウト表示" title="検索デフォルトレイアウト表示" style="border: 1px solid;">
+
+
+- レイアウトを指定した例
+  <img src="./images/module/検索名前レイアウト.png" alt="検索名前レイアウト" title="検索名前レイアウト" style="border: 1px solid;">
+  <img src="./images/module/検索名前レイアウト指定.png" alt="検索名前レイアウト指定" title="検索名前レイアウト指定" style="border: 1px solid;">
+  <img src="./images/module/検索名前レイアウト表示.png" alt="検索名前レイアウト表示" title="検索名前レイアウト表示" style="border: 1px solid;">
+
