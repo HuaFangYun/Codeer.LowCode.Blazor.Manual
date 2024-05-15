@@ -43,16 +43,28 @@ Listでmoduleを表示する.
       <img src="../images/List詳細.png" alt="List詳細" title="List詳細" style="border: 1px solid;">
 
 ## スクリプト
-| プロパティ名              | 型       | 説明                    |
-|---------------------|---------|-----------------------|
-| AllowReloadLinkData | bool    | 再読み込みを許可するか           | 
-| BackgroundColor     | string? | Fieldの背景色             | 
-| Color               | string? | Fieldの色               |
-| DisplayText         | string? | Fieldの色               |
-| IsEnabled           | bool    | Fieldの有効/無効           |
-| IsModified          | bool    | Fieldが変更されたどうか        |
-| IsVisible           | bool    | Fieldの表示/非表示          |
-| IsViewOnly          | bool    | Fieldの編集可/編集不可        |
-| SearchValue         | string? | 検索条件のinputフィールドのvalue |
-| Value               | string  | Fieldの値               |
+| プロパティ名          | 型            | 説明             |
+|-----------------|--------------|----------------|
+| AllowLoad       | bool         | ロードの可否         |
+| Color           | string?      | Fieldの色        |
+| BackgroundColor | string?      | Fieldの背景色      | 
+| IsEnabled       | bool         | Fieldの有効/無効    |
+| IsVisible       | bool         | Fieldの表示/非表示   |
+| IsViewOnly      | bool         | Fieldの編集可/編集不可 |
+| IsModified      | bool         | Fieldが変更されたどうか |
+| Limit           | int?         | 表示する最大件数       |
+| Page            | int?         | ページ            |
+| PageCount       | int?         | ページ数           |
+| RowCount        | int?         | 行のカウント         |
+| Rows            | List<Module> | 全モジュールのリスト     |
+| SelectedIndex   | int          | 選択されたインデックス    |
 
+| メソッド名                                       | 戻り値    | 説明                  |
+|---------------------------------------------|--------|---------------------|
+| AddRow()                                    | Module | 1行追加する              |
+| AddRow(Module row)                          | Module | 指定されたモジュールで1行追加する   |
+| DeleteRow(Module row)                       | なし     | 指定されたモジュールを削除する     |
+| DeleteAllRows()                             | なし     | 全て削除する              |
+| Reload()                                    | なし     | リロードする              |
+| SetSearchCondition(ModuleSearcher searcher) | なし     | 指定された検索条件をセットする     |
+| UpdateRow(int index, Module src)            | なし     | 指定されたインデックス，引数で更新する |
