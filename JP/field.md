@@ -33,4 +33,3 @@ FieldはModuleを構成する部品です。わかりやすいものはTextField
 - [Text](fields/Text.md)
 - [TileList](fields/TileList.md)
 - [Time](fields/Time.md)
-- [ColorPicker](fields/customfields/ColorPicker.md)
