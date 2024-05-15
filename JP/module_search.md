@@ -1,6 +1,7 @@
 # モジュール検索設定
 
 <img src="./images/module/モジュール検索.png" alt="モジュール検索" title="モジュール検索" style="border: 1px solid;">
+<img src="./images/module/検索表示.png" alt="検索表示" title="検索表示" style="border: 1px solid;">
 
 ## ツールボックス
 モジュールで使用するFieldを選択します．
