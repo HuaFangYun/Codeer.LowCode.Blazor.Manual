@@ -18,9 +18,9 @@ Codeer.LowCode.Blazorは以下の特徴を持っています:
 - [Module](module.md)
 - [Field](field.md)
 - [PageFrame](page_frame.md)
-- [スクリプト](script.md)
 - [designer.settings](designer_settings.md)
 - [app.clprj](app_clprj.md)
+- [スクリプト](script.md)
 - [プロコード](procode.md)
 - [css](css.md)
 
