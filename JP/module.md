@@ -18,7 +18,7 @@ ModuleはC#のclassに近い概念です。
 - レイアウトに表示しているもの
 - レイアウトでDataOnlyFieldsに設定されているもの
 - IdField、OptimisticLockingField（Moduleに設定されている場合）
-- 
+
 ### 詳細/検索
 詳細と検索は同じレイアウトルールが適用されます。グリッドでレイアウトを作成し，全体設定で作成したFieldをドラッグ&ドロップで配置します。
 <br>[詳細/検索レイアウト](layout.md)
