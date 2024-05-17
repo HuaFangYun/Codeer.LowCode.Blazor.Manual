@@ -32,6 +32,7 @@ ModuleはC#のclassに近い概念です。
 それらは以下で使用することができます。
 - [一覧ページ](./layout/レイアウト一覧.md)
 - [詳細ページ](./layout/レイアウト詳細.md)
+- [検索](./layout/レイアウト検索.md)
 - ListField,DetailListField,TitleListField,ModuleField
 
 一覧ページと詳細ページに関してはデフォルト（名前なし）が使用されます。各フィールドでの使用はそれぞれレイアウト名を指定することができます。
