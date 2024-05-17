@@ -6,10 +6,10 @@ ModuleはC#のclassに近い概念です。
 - スクリプトでメソッドを定義することもできます。
 
 ## 設定
-- [全体設定](module_general.md)
-- [詳細設定](module_detail.md)
-- [一覧設定](module_list.md)
-- [検索設定](module_search.md)
+- [全体設定](module/module_general.md)
+- [詳細設定](module/module_detail.md)
+- [一覧設定](module/module_list.md)
+- [検索設定](module/module_search.md)
 
 ## レイアウト
 
@@ -29,10 +29,17 @@ ModuleはC#のclassに近い概念です。
 
 ### 複数レイアウト
 レイアウト（詳細、一覧、検索）で重要なポイントはそれぞれでレイアウトを複数作成できることです。
-それらは以下で使用することができます。
+
+作成したレイアウトは以下で使用することができます。
+
+| レイアウト種類 | 使用場所                                                                            |
+|---------|---------------------------------------------------------------------------------|
+| 一覧レイアウト | 一覧ページ(defaultレイアウト), LinkField                                                  |
+| 詳細レイアウト | 詳細ページ(defaultレイアウト), ListField, DetailList, TileList, ModuleField(defaultレイアウト) |
+| 検索レイアウト | 一覧ページ(defaultレイアウト), SearchField                                                |
+
+
+#### 複数レイアウト設定例
 - [一覧ページ](./layout/レイアウト一覧.md)
 - [詳細ページ](./layout/レイアウト詳細.md)
 - [検索](./layout/レイアウト検索.md)
-- ListField,DetailListField,TitleListField,ModuleField
-
-一覧ページと詳細ページに関してはデフォルト（名前なし）が使用されます。各フィールドでの使用はそれぞれレイアウト名を指定することができます。
