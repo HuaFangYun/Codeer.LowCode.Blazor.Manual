@@ -1,4 +1,4 @@
-# Codeer.LowCode.Blazor, Codeer.LowCode.Blazor.Designer
+# Codeer.LowCode.Blazor および Codeer.LowCode.Blazor.Designer
 ※このＷＥＢサイトは Nuget の[Codeer.LowCode.Blazor](https://www.nuget.org/packages/Codeer.LowCode.Blazor)および[Codeer.LowCode.Blazor.Designer](https://www.nuget.org/packages/Codeer.LowCode.Blazor.Designer)を指します。
 
 ### このＷＥＢサイトを通じて、入手可能な株式会社Codeer（以下「Codeer」といいます。）のソフトウェア（以下「本ソフトウェア」といいます。）、ドキュメントその他の資料を使用されようとしているお客様へのご注意
