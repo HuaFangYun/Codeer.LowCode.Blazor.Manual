@@ -10,9 +10,10 @@ Codeer.LowCode.Blazor is a library for adding low-code functionality to your Bla
 
 ## Codeer.LowCode.Blazor License Information
 For details on the use license of Codeer.LowCode.Blazor, please see [here](https://www.nuget.org/packages/Codeer.LowCode.Blazor/1.0.0/License).<br/>
-- The trial version of this software may be used for evaluation purposes without any feature or time restrictions.
-- The purchase of a developer license is required for any form of commercial use, including but not limited to using the software for commercial purposes, or as part of the development process of a product intended for commercial distribution.
-- For those interested in community use, we plan to issue a free use license upon application.
+- The trial version of this software can only be used for evaluating the product.
+- The purchase of a license is required for any form of commercial use, including but not limited to the use of the software for commercial purposes or as part of the development process of products intended for commercial distribution.
+- For those who wish to use the software for community purposes, a free license can be issued upon request. Please contact Codeer for more information.
+
 
 ## Getting Started
 You can create projects using Visual Studio extensions.<br/>
