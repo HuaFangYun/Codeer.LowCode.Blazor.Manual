@@ -4,8 +4,8 @@ Codeer.LowCode.Blazorは、Blazorアプリにローコード機能を追加す�
 
 <img src="../Image/lc_logo.png">
 
-## Codeer.LowCode.Blazor ライセンス情報
-Codeer.LowCode.Blazorの使用ライセンスの詳細については、[こちら]((https://www.nuget.org/packages/Codeer.LowCode.Blazor/1.0.0/License))をご覧ください。
+## ライセンス情報
+Codeer.LowCode.Blazorの使用ライセンスの詳細については、[こちら](https://www.nuget.org/packages/Codeer.LowCode.Blazor/1.0.0/License)をご覧ください。
 日本語版は[こちら](JP/LicenseJP.md)です。本契約の英語版とその翻訳版の間に何らかの齟齬または相違が生じた場合、英語版が優先され本契約の意味を規律するものとします。
 
 - このソフトウェアの試用版は本製品の評価目的でのみ使用できます。
