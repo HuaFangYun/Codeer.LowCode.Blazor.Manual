@@ -11,7 +11,7 @@ ModuleはC#のclassに近い概念です。
 - [一覧設定](module/module_list.md)
 - [検索設定](module/module_search.md)
 
-## レイアウト
+## 画面レイアウト
 
 ### データに関して
 サーバー側のDataSourceと連携している場合に各レイアウトで表示するために取得するデータは以下のものです
@@ -35,7 +35,7 @@ ModuleはC#のclassに近い概念です。
 | レイアウト種類 | 使用場所                                                                            |
 |---------|---------------------------------------------------------------------------------|
 | 一覧レイアウト | 一覧ページ(defaultレイアウト), LinkField                                                  |
-| 詳細レイアウト | 詳細ページ(defaultレイアウト), ListField, DetailList, TileList, ModuleField(defaultレイアウト) |
+| 詳細レイアウト | 詳細ページ(defaultレイアウト), ダイアログ, ListField, DetailList, TileList, ModuleField(defaultレイアウト) |
 | 検索レイアウト | 一覧ページ(defaultレイアウト), SearchField                                                |
 
 
