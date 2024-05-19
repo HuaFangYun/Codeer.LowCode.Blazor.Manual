@@ -8,7 +8,7 @@
 | 項目           | 説明                                               |
 |--------------|--------------------------------------------------|
 | SystemFields | SystemFieldの一覧が表示されます                            |
-| CommonFields | CustomFieldの一覧が表示されます                            |
+| CommonFields | CommonFieldの一覧が表示されます                            |
 | DB Fields    | 全体設定でDataSourceを指定した場合に，テーブルのカラムからField候補が表示されます |
 | Rest Fields  | DB Fieldsで詳細設定で（まだ）使用していないFieldが表示されます．          |
 | Link Fields  | Linkフィールドを作成した場合に，Link先のフィールドが表示されます.            |
