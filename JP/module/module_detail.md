@@ -2,7 +2,7 @@
 
 <img src="images/モジュール詳細.png" width="400" alt="モジュール全体" title="モジュール全体" style="border: 1px solid;">
 
-## 1. ツールボックス
+## ツールボックス
 モジュールで使用するFieldを選択します。
 
 | 項目           | 説明                                               |
