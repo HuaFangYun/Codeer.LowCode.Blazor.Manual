@@ -1,6 +1,6 @@
 # モジュール一覧設定
 
-<img src="../images/module/モジュール一覧.png" width="400" alt="モジュール一覧" title="モジュール一覧" style="border: 1px solid;">
+<img src="images/モジュール一覧.png" width="400" alt="モジュール一覧" title="モジュール一覧" style="border: 1px solid;">
 
 ## ツールボックス
 モジュールで使用するFieldを選択します．

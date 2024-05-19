@@ -6,7 +6,7 @@ ModuleはC#のclassに近い概念です。
 - スクリプトでメソッドを定義することもできます。
 
 ## 全体設定
-<img src="images/module/モジュール全体.png" width="600" alt="モジュール全体" title="モジュール全体" style="border: 1px solid;">
+<img src="module/images/モジュール全体.png" width="600" alt="モジュール全体" title="モジュール全体" style="border: 1px solid;">
 
 全体設定ではDBとの入出力やアクセス権の設定など主にデータとしての振る舞いを設定します。
 画面上に表示しないFieldもここで設定することができます。スクリプト中でModuleSearcherを用いてデータとして取得/利用することができます。
