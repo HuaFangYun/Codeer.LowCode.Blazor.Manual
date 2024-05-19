@@ -1,6 +1,11 @@
 # Boolean
 
+真偽値をあらわすフィールド．
+
+
 <img src="./images/Boolean.png" width="450" alt="Boolean設定" title="Boolean設定" style="border: 1px solid;" >
+
+## プロパティ
 
 | プロパティ名        | 説明                                    |
 |---------------|---------------------------------------| 

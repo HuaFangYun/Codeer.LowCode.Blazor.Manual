@@ -1,21 +1,19 @@
 # Date
 
-<img src="../images/Date表示.png" alt="Date表示" title="Date表示" style="border: 1px solid;">
+日付のフィールド
 
-<img src="../images/Date設定.png" alt="Date設定" title="Date設定" style="border: 1px solid;" >
+<img src="images/Date設定.png" width="450" alt="Date設定" title="Date設定" style="border: 1px solid;" >
 
-1. FieldType
-    - Dateを設定する
-2. Name
-    - フィールド名の設定. 全体設定時に表示される.
-3. DisplayName
-    - TBD
-4. IsRequired
-    - 登録時，必須にする
-5. DbColumn
-    - テーブルのカラムの設定
+## プロパティ
+| プロパティ名        | 説明               |
+|---------------|------------------| 
+| FieldType     | Dateを設定する        |
+| Name          | フィールド名を設定する      |
+| DisplayName   | 表示するテキストを設定する.   |
+| IsRequired    | 登録時，必須にする.       |
+| OnDataChanged | 変更時のスクリプトを設定する.  |
+| DbColumn      | データベースのカラムを設定する. |
 
-<img src="../images/Date詳細.png" alt="Date詳細" title="Date詳細" style="border: 1px solid;">
 
 ## スクリプト
 | プロパティ名          | 型         | 説明             |

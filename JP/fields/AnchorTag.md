@@ -1,7 +1,10 @@
 # AnchorTag
 
+リンクのフィールド
+
 <img src="./images/AnchorTag.png" width="450" alt="AnchorTag設定" title="AnchorTag設定" style="border: 1px solid;">
 
+## プロパティ
 | プロパティ名           | 説明                                            |
 |------------------|-----------------------------------------------| 
 | FieldType        | AnchorTagを設定する                                |
