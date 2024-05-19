@@ -37,9 +37,3 @@ ModuleはC#のclassに近い概念です。
 | 一覧レイアウト | 一覧ページ(defaultレイアウト), LinkField                                                  |
 | 詳細レイアウト | 詳細ページ(defaultレイアウト), ダイアログ, ListField, DetailList, TileList, ModuleField |
 | 検索レイアウト | 一覧ページ(defaultレイアウト), SearchField                                                |
-
-
-#### 複数レイアウト設定例
-- [一覧ページ](./layout/レイアウト一覧.md)
-- [詳細ページ](./layout/レイアウト詳細.md)
-- [検索](./layout/レイアウト検索.md)
