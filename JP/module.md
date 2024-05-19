@@ -5,7 +5,7 @@ ModuleはC#のclassに近い概念です。
 - またUIのレイアウトも持ち画面表示（一覧画面、詳細画面、ダイアログ、他の画面の一部）をすることもできます。
 - スクリプトでメソッドを定義することもできます。
 
-## 設定
+## デザイナでの設定
 - [全体設定](module/module_general.md)
 - [詳細設定](module/module_detail.md)
 - [一覧設定](module/module_list.md)
