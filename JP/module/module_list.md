@@ -1,6 +1,6 @@
 # モジュール一覧設定
 
-<img src="images/モジュール一覧.png" width="400" alt="モジュール一覧" title="モジュール一覧" style="border: 1px solid;">
+<img src="images/module_list.png" width="400" alt="モジュール一覧" title="モジュール一覧" style="border: 1px solid;">
 
 ## ツールボックス
 モジュールで使用するFieldを選択します．
@@ -23,7 +23,7 @@
 
 ## レイアウト設定
 
-<img src="./images/一覧.png" alt="一覧" title="一覧" width="400" style="border: 1px solid;">
+<img src="images/list.png" alt="一覧" title="一覧" width="400" style="border: 1px solid;">
 
 モジュールの一覧設定画面で一覧のレイアウトを設定します．
 
@@ -35,11 +35,11 @@
 
 ## 複数レイアウト
 
-<img src="./images/一覧複数.png" alt="一覧複数" title="一覧複数" width="400" style="border: 1px solid;">
+<img src="images/list_multiple.png" alt="一覧複数" title="一覧複数" width="400" style="border: 1px solid;">
 
 追加ボタンをクリックしてデフォルトとは異なるレイアウトを作成することができます．
 
 `LinkField` にdefaultを含む作成済みのすべてのレイアウトから, 適用するレイアウトを指定できます.
 
-<img src="./images/一覧設定.png" alt="一覧設定" title="一覧設定" width="400" style="border: 1px solid;">
+<img src="images/list_settings.png" alt="一覧設定" title="一覧設定" width="400" style="border: 1px solid;">
 

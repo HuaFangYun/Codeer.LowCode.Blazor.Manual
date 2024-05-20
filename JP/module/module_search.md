@@ -1,6 +1,6 @@
 # モジュール検索設定
 
-<img src="images/モジュール検索.png" width="400" alt="モジュール検索" title="モジュール検索" style="border: 1px solid;">
+<img src="images/module_search.png" width="400" alt="モジュール検索" title="モジュール検索" style="border: 1px solid;">
 
 ## ツールボックス
 モジュールで使用するFieldを選択します．
@@ -26,7 +26,7 @@
 
 ## レイアウト
 
-<img src="./images/検索.png" alt="検索" title="検索" width="400" style="border: 1px solid;">
+<img src="images/search.png" alt="検索" title="検索" width="400" style="border: 1px solid;">
 
 モジュールの検索設定画面で検索のレイアウトを設定します．
 
@@ -38,11 +38,11 @@
 
 ## 複数レイアウト
 
-<img src="./images/検索複数.png" alt="検索複数" title="検索複数" width="400" style="border: 1px solid;">
+<img src="images/search_multiple.png" alt="検索複数" title="検索複数" width="400" style="border: 1px solid;">
 
 追加ボタンをクリックしてデフォルトとは異なるレイアウトを作成することができます．
 
 `SearchField` にdefaultを含む作成済みのすべてのレイアウトから, 適用するレイアウトを指定できます.
 
-<img src="./images/検索設定.png" alt="検索設定" title="検索設定" width="400" style="border: 1px solid;">
+<img src="images/search_settings.png" alt="検索設定" title="検索設定" width="400" style="border: 1px solid;">
 

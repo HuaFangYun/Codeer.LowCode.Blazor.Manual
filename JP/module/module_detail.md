@@ -1,6 +1,6 @@
 # モジュール詳細設定
 
-<img src="images/モジュール詳細.png" width="400" alt="モジュール全体" title="モジュール全体" style="border: 1px solid;">
+<img src="images/module_detail.png" width="400" alt="モジュール全体" title="モジュール全体" style="border: 1px solid;">
 
 ## ツールボックス
 モジュールで使用するFieldを選択します。
@@ -26,7 +26,7 @@
 
 ## レイアウト詳細
 
-<img src="./images/詳細.png" alt="詳細" title="詳細" width="400" style="border: 1px solid;">
+<img src="images/detail.png" alt="詳細" title="詳細" width="400" style="border: 1px solid;">
 
 モジュールの詳細設定画面で詳細のレイアウトを設定します．
 
@@ -38,11 +38,11 @@
 
 ## 複数レイアウト
 
-<img src="./images/詳細複数.png" alt="詳細複数" title="詳細複数" width="400" style="border: 1px solid;">
+<img src="images/detail_multiple.png" alt="詳細複数" title="詳細複数" width="400" style="border: 1px solid;">
 
 追加ボタンをクリックしてデフォルトとは異なるレイアウトを作成できます．
 
 `ListField`, `DetailList`, `TileList` にdefaultを含む作成済みのすべてのレイアウトから, 適用するレイアウトを指定できます.
 
-<img src="./images/詳細設定.png" alt="詳細設定" title="詳細設定" width="400" style="border: 1px solid;">
+<img src="images/detail_settings.png" alt="詳細設定" title="詳細設定" width="400" style="border: 1px solid;">
 

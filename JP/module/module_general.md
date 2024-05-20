@@ -2,7 +2,7 @@
 
 全体設定ではDBとの入出力やアクセス権の設定など主にデータとしての振る舞いを設定します。 画面上に表示しないFieldもここで設定することができます。スクリプト中でModuleSearcherを用いてデータとして取得/利用することができます。
 
-<img src="images/モジュール全体.png" width="400" alt="モジュール全体" title="モジュール全体" style="border: 1px solid;">
+<img src="images/module_general.png" width="400" alt="モジュール全体" title="モジュール全体" style="border: 1px solid;">
 
 ## ツールボックス
 モジュールで使用するFieldを選択します．
