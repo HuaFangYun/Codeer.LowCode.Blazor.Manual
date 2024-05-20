@@ -10,10 +10,6 @@ Codeer.LowCode.Blazorのデザイナは、ローコード実行エンジンで�
 - [designer.settings](designer_settings.md)
 - [app.clprj](app_clprj.md)
 
-## レイアウトの設定
-デザイナでは画面を簡単に設定できます。詳細は以下のリンクを参照してください。
-- [詳細画面・検索画面のレイアウト](layout.md)
-
 ## デザイナのカスタマイズ
 
 デザイナもCodeer.LowCode.Blazor.Desingerを参照するWPFアプリで、ProCodeでカスタマイズ可能です。詳細は以下のリンクを参照してください。
