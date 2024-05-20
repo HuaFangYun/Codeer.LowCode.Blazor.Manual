@@ -21,7 +21,7 @@ Codeer.LowCode.Blazorは以下の特徴を持っています:
 ## 利用方法
 各セクションを参考にしてください:
 - [Getting Started](#getting-started)
-- [概略](application/architecture.md)
+- [概略](application/overview)
 - [デザイナ](designer/designer.md)
 - [Module](module/module.md)
 - [Field](module/field.md)
