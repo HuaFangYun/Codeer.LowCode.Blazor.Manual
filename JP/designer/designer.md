@@ -6,9 +6,9 @@ Codeer.LowCode.Blazorのデザイナは、ローコード実行エンジンで�
 
 以下の要素を編集できます
 - [Module](../module/module.md)
-- [PageFrame](../application/page_frame.md)
+- [PageFrame](../overview/page_frame.md)
 - [designer.settings](designer_settings.md)
-- [app.clprj](../application/app_clprj.md)
+- [app.clprj](../overview/app_clprj.md)
 
 ## デザイナのカスタマイズ
 
