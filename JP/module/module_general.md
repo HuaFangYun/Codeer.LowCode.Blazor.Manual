@@ -21,7 +21,7 @@
 |---------------|-------------------------------------------------------------------------------------------------|
 | DisplayName   | 表示名です。現在はModuleSelectFieldで表示するときだけに使われています                                                     |
 | PageTitle     | htmlのタイトルに設定されます                                                                                |
-| DataSource    | DBとテーブルを指定することによりEntityとして設定します.<br/>DataSourceは[designer.settings](../designer_settings.md)で設定 |
+| DataSource    | DBとテーブルを指定することによりEntityとして設定します.<br/>DataSourceは[designer.settings](../designer/designer_settings.md)で設定 |
 | ListPageField | 一覧ページでのリスト設定です                                                                                  |
 | Option        | `作成`, `更新`, `削除`, `一括ダウンロード`, `一括更新` の有無を設定します                                                  |
 | Access        | - ユーザーとデータ内容によるアクセス制御を設定します                                                                     |
