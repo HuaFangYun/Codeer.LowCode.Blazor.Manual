@@ -1,6 +1,6 @@
 # app.clprj
 
-<img src="images/app_clproj.png">
+<img src="../images/app_clproj.png">
 
 アプリケーション全体の設定をします。
 

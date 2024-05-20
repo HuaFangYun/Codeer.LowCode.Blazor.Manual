@@ -21,15 +21,15 @@ Codeer.LowCode.Blazorは以下の特徴を持っています:
 ## 利用方法
 各セクションを参考にしてください:
 - [Getting Started](#getting-started)
-- [概略](architecture.md)
+- [概略](application/architecture.md)
 - [デザイナ](designer/designer.md)
 - [Module](module/module.md)
 - [Field](module/field.md)
-- [PageFrame](page_frame.md)
-- [app.clprj](app_clprj.md)
+- [PageFrame](application/page_frame.md)
+- [app.clprj](application/app_clprj.md)
 - [designer.settings](designer/designer_settings.md)
-- [スクリプト](script.md)
-- [プロコード](procode.md)
+- [スクリプト](application/script.md)
+- [プロコード](application/procode.md)
 - [css](look_and_feel/css.md)
 
 ## こんなプロジェクトにおすすめ

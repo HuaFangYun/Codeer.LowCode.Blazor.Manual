@@ -2,7 +2,7 @@
 Codeer.LowCode.BlazorはBlazorに組み込むライブラリですので、もちろん通常のBlazorや.NETの実装も可能です。
 
 ## Designerで作成したModuleのイベント部分をC#で実装する
-<img src="images/procode_codebehinde.png">
+<img src="../images/procode_codebehinde.png">
 
 Designerで作成したModuleと同名のクラスを作成してProCodeBehindBaseを継承させます。
 Webの画面でModuleが表示されたときにインスタンスが生成され関連付けられます。
@@ -64,7 +64,7 @@ ProCodeModuleBaseを継承したコンポーネントを実装するとPageFrame
 ProCodeComponentBaseを実装したクラスを作成してそれをProCodeFieldに設定すると表示することができます。
 この場合、データを格納するフィールドを別に作りそこにデータを格納することでデータの入出力をLowCode機能の方に任せることができます。
 
-<img src="images/procode_component.png">
+<img src="../images/procode_component.png">
 
 ```csharp
 @using Microsoft.AspNetCore.Components.Web

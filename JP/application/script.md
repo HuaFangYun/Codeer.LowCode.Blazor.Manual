@@ -1,6 +1,6 @@
 # スクリプト
 
-<img src="images/script_summary.png">
+<img src="../images/script_summary.png">
 
 C#の基本的な構文で記述できます。イベントをトリガとして実行され、モジュールのメソッドとして追加されます。全てpublicとなり外部から呼び出すことも可能です。Moduleやその中で使っているFieldを操作できます。プロコードから利用可能なクラスを設定できるのでスクリプトからプロコードで実装した機能を呼び出すことが可能です。
 
@@ -33,8 +33,8 @@ C#の基本的な構文で記述できます。イベントをトリガとして
 
 ### Module, 各Field
 
-- [module](module/module.md)
-- [field](module/field.md)
+- [module](../module/module.md)
+- [field](../module/field.md)
 
 ## メソッドの定義と呼び出し
 
