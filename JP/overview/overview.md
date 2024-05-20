@@ -8,7 +8,7 @@
 
 ## 画面の構成
 
-Codeer.LowCode.Blazorは、BlazorアプリにNugetで実行エンジン型のローコード機能を組み込むためのライブラリです。ローコード実行エンジンは強力なので、それだけでアプリの大部分を作成することも可能です。基本的には[PageFrame](../designer/page_frame.md)と[Module](../module/module.md)で画面を作成し、Moduleには[Field](../module/field.md)を配置します。
+Codeer.LowCode.Blazorは、BlazorアプリにNugetで実行エンジン型のローコード機能を組み込むためのライブラリです。ローコード実行エンジンは強力なので、それだけでアプリの大部分を作成することも可能です。基本的には[PageFrame](../designer/page_frame.md)と[Module](../module/module.md)で画面を作成し、Moduleには[Field](../fields/field.md)を配置します。
 
 <img src="../../Image/pageframe_and_module.png">
 
@@ -19,14 +19,14 @@ Codeer.LowCode.Blazorは、BlazorアプリにNugetで実行エンジン型のロ
 ### Module
 
 [Module](../module/module.md)はC#のclassに近い概念です。
-- [Field](../module/field.md)を配置することによりデータとして振る舞うことができます。
+- [Field](../fields/field.md)を配置することによりデータとして振る舞うことができます。
 - DBとマッピングすることによりORマッパーのEntityとして振る舞うこともできます。
 - またUIのレイアウトも持ち画面表示（一覧画面、詳細画面、ダイアログ、他の画面の一部）をすることもできます。
 - スクリプトでメソッドを定義することもできます。
 
 ### Field
 
-[Field](../module/field.md)はModuleを構成する部品です。わかりやすいものはTextFieldなどのUIを持つ部品です。これもWinFormsなどでFormクラスがTextContolをプロパティとして持つことをイメージしてもらうとわかりやすいと思います。UIに表示せずにデータの入出力だけに使うことも可能です。
+[Field](../fields/field.md)はModuleを構成する部品です。わかりやすいものはTextFieldなどのUIを持つ部品です。これもWinFormsなどでFormクラスがTextContolをプロパティとして持つことをイメージしてもらうとわかりやすいと思います。UIに表示せずにデータの入出力だけに使うことも可能です。
 - 大部分のFieldはデータを持ちます。
 - ModuleをDBとマッピングしたときにカラムを割り当てて入出力することができます。
 - 大部分のFieldはUIを持ちレイアウトに配置することができます。
