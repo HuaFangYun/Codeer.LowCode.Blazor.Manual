@@ -2,9 +2,9 @@
 
 Fileのアップロードを行うComponent
 
-<img src="../images/File表示.png" alt="File表示" title="File表示" style="border: 1px solid;">
+<img src="images/File表示.png" alt="File表示" title="File表示" style="border: 1px solid;">
 
-<img src="../images/File設定.png" alt="File設定" title="File設定" style="border: 1px solid;" >
+<img src="images/File設定.png" alt="File設定" title="File設定" style="border: 1px solid;" >
 
 下記テーブルが必要
 ```sql
@@ -38,7 +38,7 @@ create table temporary_files
 7. OnDataChanged
     - File変更時のスクリプト
 
-<img src="../images/File詳細.png" alt="File詳細" title="File詳細" style="border: 1px solid;">
+<img src="images/File詳細.png" alt="File詳細" title="File詳細" style="border: 1px solid;">
 
 
 | プロパティ名             | 型               | 説明               |

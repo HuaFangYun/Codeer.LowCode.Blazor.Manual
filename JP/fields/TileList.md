@@ -2,9 +2,9 @@
 
 タイル状にmoduleを表示する
 
-<img src="../images/TileList表示.png" alt="TileList表示" title="TileList表示" style="border: 1px solid;">
+<img src="images/TileList表示.png" alt="TileList表示" title="TileList表示" style="border: 1px solid;">
 
-<img src="../images/TileList設定.png" alt="TileList設定" title="TileList設定" style="border: 1px solid;" >
+<img src="images/TileList設定.png" alt="TileList設定" title="TileList設定" style="border: 1px solid;" >
 
 ### GENERAL
 1. FieldType

@@ -3,7 +3,7 @@
 またそのPageFrame内で表示可能なModuleを設定します。
 表示可能なModuleはTopPage, ヘッダ、サイドバー(Left, Right)に指定されたModuleその他表示可能で指定されたModuleです。
 
-<img src="../images/pageframe.png">
+<img src="images/pageframe.png">
 
 ## TopPage
 PageFrameは複数作ることができますが、ルートのURLを入力したときにTopPageにモジュールが指定されているPageFrameが選択され、TopPageを表示します。

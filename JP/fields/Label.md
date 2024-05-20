@@ -2,9 +2,9 @@
 
 ラベルを表示するField
 
-<img src="../images/Label表示.png" alt="Label表示" title="Label表示" style="border: 1px solid;">
+<img src="images/Label表示.png" alt="Label表示" title="Label表示" style="border: 1px solid;">
 
-<img src="../images/Label設定.png" alt="Label設定" title="Label設定" style="border: 1px solid;" >
+<img src="images/Label設定.png" alt="Label設定" title="Label設定" style="border: 1px solid;" >
 
 1. FieldType
     - Labelを設定する
@@ -17,10 +17,10 @@
 5. RelativeField
     - 関連するFieldをしていする
     - 一覧でLabelのD&DでLabel,Fieldを設定できる
-    - <img src="../images/Label関連.png" alt="Label関連" title="Label関連" style="border: 1px solid;">
+    - <img src="images/Label関連.png" alt="Label関連" title="Label関連" style="border: 1px solid;">
 
 
-<img src="../images/Label詳細.png" alt="Label詳細" title="Label詳細" style="border: 1px solid;">
+<img src="images/Label詳細.png" alt="Label詳細" title="Label詳細" style="border: 1px solid;">
 
 ## スクリプト
 | プロパティ名          | 型               | 説明                                            |

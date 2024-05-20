@@ -2,9 +2,9 @@
 
 送信ボタンのフィールド
 
-<img src="../images/SubmitButton表示.png" alt="SubmitButton表示" title="SubmitButton表示" style="border: 1px solid;">
+<img src="images/SubmitButton表示.png" alt="SubmitButton表示" title="SubmitButton表示" style="border: 1px solid;">
 
-<img src="../images/SubmitButton設定.png" alt="SubmitButton設定" title="SubmitButton設定" style="border: 1px solid;" >
+<img src="images/SubmitButton設定.png" alt="SubmitButton設定" title="SubmitButton設定" style="border: 1px solid;" >
 
 1. FieldType
     - SubmitButtonを設定する
@@ -15,7 +15,7 @@
 4. Icon
     - アイコン設定
 
-<img src="../images/SubmitButton詳細.png" alt="SubmitButton詳細" title="SubmitButton詳細" style="border: 1px solid;">
+<img src="images/SubmitButton詳細.png" alt="SubmitButton詳細" title="SubmitButton詳細" style="border: 1px solid;">
 
 ## スクリプト
 | プロパティ名              | 型       | 説明                    |

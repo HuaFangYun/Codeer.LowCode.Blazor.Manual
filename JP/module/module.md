@@ -14,7 +14,7 @@ ModuleはC#のclassに近い概念です。
 - [全体設定](module_general.md)
 
 ## 画面レイアウト
-<img src="../images/module_ui.png" width="600" style="border: 1px solid;">
+<img src="../../Image/module_ui.png" width="600" style="border: 1px solid;">
 
 Moduleは画面レイアウトを設定することで画面を表示できます。詳細、一覧、検索のUI表現を設定できます。設定方法はそれぞれの参照してください。
 - [詳細設定](module_detail.md)

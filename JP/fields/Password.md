@@ -2,9 +2,9 @@
 
 Passwordを表すField
 
-<img src="../images/Password表示.png" alt="Password表示" title="Password表示" style="border: 1px solid;">
+<img src="images/Password表示.png" alt="Password表示" title="Password表示" style="border: 1px solid;">
 
-<img src="../images/Password設定.png" alt="Password設定" title="Password設定" style="border: 1px solid;" >
+<img src="images/Password設定.png" alt="Password設定" title="Password設定" style="border: 1px solid;" >
 
 1. FieldType
     - Passwordを設定する
@@ -19,7 +19,7 @@ Passwordを表すField
 6. OnDataChanged
     - 変更時のスクリプト
 
-<img src="../images/Password詳細.png" alt="Password詳細" title="Password詳細" style="border: 1px solid;">
+<img src="images/Password詳細.png" alt="Password詳細" title="Password詳細" style="border: 1px solid;">
 
 ## スクリプト
 | プロパティ名          | 型        | 説明             |

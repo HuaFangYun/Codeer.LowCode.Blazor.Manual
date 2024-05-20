@@ -20,4 +20,4 @@ Codeer.LowCode.Blazorのデザイナは、ローコード実行エンジンで�
 デザイナでListField、LinkField、SelectFieldの検索条件を設定可能なフィールドであればGUI上で条件を設定できます。ProCodeでカスタムのFieldを作った場合、そのFieldの持つ値を条件に設定可能にするには、以下の手順を実装する必要があります。
 - [検索コンポーネントの実装](designer-match-customize.md)
 
-<img src="../images/designer_match_customize.png">
+<img src="images/designer_match_customize.png">

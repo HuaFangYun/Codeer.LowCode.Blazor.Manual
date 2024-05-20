@@ -1,8 +1,8 @@
 # DetailListList
 
-<img src="../images/DetailList表示.png" alt="DetailList表示" title="DetailList表示" style="border: 1px solid;">
+<img src="images/DetailList表示.png" alt="DetailList表示" title="DetailList表示" style="border: 1px solid;">
 
-<img src="../images/DetailList設定.png" alt="DetailList設定" title="DetailList設定" style="border: 1px solid;" >
+<img src="images/DetailList設定.png" alt="DetailList設定" title="DetailList設定" style="border: 1px solid;" >
 
 ### GENERAL
 1. FieldType

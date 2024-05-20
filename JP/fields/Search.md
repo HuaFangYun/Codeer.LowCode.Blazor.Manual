@@ -2,9 +2,9 @@
 
 
 
-<img src="../images/Search表示.png" alt="Search表示" title="Search表示" style="border: 1px solid;">
+<img src="images/Search表示.png" alt="Search表示" title="Search表示" style="border: 1px solid;">
 
-<img src="../images/Search設定.png" alt="Search設定" title="Search設定" style="border: 1px solid;" >
+<img src="images/Search設定.png" alt="Search設定" title="Search設定" style="border: 1px solid;" >
 
 1. FieldType
     - Searchを設定する
@@ -15,7 +15,7 @@
 4. LayoutName
     - ListFieldに指定したModuleの検索タブで作成した検索フォームから選択する
 
-<img src="../images/Search詳細.png" alt="Search詳細" title="Search詳細" style="border: 1px solid;">
+<img src="images/Search詳細.png" alt="Search詳細" title="Search詳細" style="border: 1px solid;">
 
 
 

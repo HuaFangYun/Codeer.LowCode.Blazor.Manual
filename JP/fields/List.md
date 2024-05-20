@@ -2,9 +2,9 @@
 
 Listでmoduleを表示する.
 
-<img src="../images/List表示.png" alt="List表示" title="List表示" style="border: 1px solid;">
+<img src="images/List表示.png" alt="List表示" title="List表示" style="border: 1px solid;">
 
-<img src="../images/List設定.png" alt="List設定" title="List設定" style="border: 1px solid;" >
+<img src="images/List設定.png" alt="List設定" title="List設定" style="border: 1px solid;" >
 
 ### GENERAL
 1. FieldType

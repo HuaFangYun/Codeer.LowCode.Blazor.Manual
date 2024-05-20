@@ -2,10 +2,10 @@
 
 他のモジュールへのリンクのフィールド
 
-<img src="../images/Link表示1.png" alt="Link表示1" title="Link表示1" style="border: 1px solid;">
-<img src="../images/Link表示2.png" alt="Link表示2" title="Link表示2" style="border: 1px solid;">
+<img src="images/Link表示1.png" alt="Link表示1" title="Link表示1" style="border: 1px solid;">
+<img src="images/Link表示2.png" alt="Link表示2" title="Link表示2" style="border: 1px solid;">
 
-<img src="../images/Link設定.png" alt="Link設定" title="Link設定" style="border: 1px solid;" >
+<img src="images/Link設定.png" alt="Link設定" title="Link設定" style="border: 1px solid;" >
 
 ### GENERAL
 1. FieldType
