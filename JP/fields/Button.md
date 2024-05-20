@@ -2,7 +2,7 @@
 
 ボタンのフィールド.
 
-<img src="images/Button設定.png" width="450" alt="Button設定" title="Button設定" style="border: 1px solid;" >
+<img src="images/Button_settings.png" width="450" alt="Button設定" title="Button設定" style="border: 1px solid;" >
 
 ## プロパティ
 | プロパティ名    | 説明                   |

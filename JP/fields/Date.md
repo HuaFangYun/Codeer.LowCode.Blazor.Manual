@@ -2,7 +2,7 @@
 
 日付のフィールド
 
-<img src="images/Date設定.png" width="450" alt="Date設定" title="Date設定" style="border: 1px solid;" >
+<img src="images/Date_settings.png" width="450" alt="Date設定" title="Date設定" style="border: 1px solid;" >
 
 ## プロパティ
 | プロパティ名        | 説明               |
