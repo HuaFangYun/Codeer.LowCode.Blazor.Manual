@@ -38,7 +38,7 @@ And I'm {Age?.Value} years old.";
 
 ## 画面全体をrazorファイルで実装する
 ProCodeModuleBaseを継承したコンポーネントを実装するとPageFrameなどから利用できるようになります。画面の部分にそのまま表示できます。
-<img src="images/procode_module.png">
+<img src="../images/procode_module.png">
 
 ```csharp
 @using Microsoft.AspNetCore.Components.Web
