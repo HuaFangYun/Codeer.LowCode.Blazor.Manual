@@ -42,6 +42,7 @@ CREATE TABLE post
 <img src="images/1-1_data_model.png" width="400" alt="1対1" title="1対1" style="border: 1px solid;">
 
 画面では参照先のModuleを一覧から選択できるようになります.
+
 <img src="images/1-1_UI.png" width="400" alt="1対1" title="1対1" style="border: 1px solid;">
 
 ## 1 - N  (1 - 0..N)
@@ -52,8 +53,10 @@ CREATE TABLE post
 - 被参照Module
   - 被参照Moduleに(`Blog`)に`List`(`DetailList`, `TileList`)フィールドを配置
   - Conditionに一覧に表示する条件を設定
-     <img src="images/1-N_conditions.png" width="400" alt="1対N条件" title="1対N条件" style="border: 1px solid;">
+
+    <img src="images/1-N_conditions.png" width="400" alt="1対N条件" title="1対N条件" style="border: 1px solid;">
   - 一覧形式でBlogを参照しているPostが表示されます.
-     <img src="images/1-N_UI.png" width="400" alt="1対NUI" title="1対NUI" style="border: 1px solid;">
+
+    <img src="images/1-N_UI.png" width="400" alt="1対NUI" title="1対NUI" style="border: 1px solid;">
 
 
