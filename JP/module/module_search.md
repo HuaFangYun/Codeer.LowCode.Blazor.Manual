@@ -1,5 +1,7 @@
 # モジュール検索設定
 
+一覧画面で表示するEntityをフィルターするための検索条件を設定します.
+
 <img src="images/module_search.png" width="400" alt="モジュール検索" title="モジュール検索" style="border: 1px solid;">
 
 ## ツールボックス
