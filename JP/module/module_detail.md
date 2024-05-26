@@ -1,5 +1,7 @@
 # モジュール詳細設定
 
+Enityの表示画面，登録/更新画面を設定します.
+
 <img src="images/module_detail.png" width="400" alt="モジュール全体" title="モジュール全体" style="border: 1px solid;">
 
 ## ツールボックス
