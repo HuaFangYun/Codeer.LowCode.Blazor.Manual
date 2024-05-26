@@ -1,5 +1,8 @@
 # モジュール一覧設定
 
+Entityの一覧画面の設定をします.
+全体設定で作成したフィールドから一覧に表示するフィールドを選択します.
+
 <img src="images/module_list.png" width="400" alt="モジュール一覧" title="モジュール一覧" style="border: 1px solid;">
 
 ## ツールボックス
